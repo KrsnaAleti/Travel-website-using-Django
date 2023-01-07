@@ -1,6 +1,6 @@
 # Travel-website-using-Django
 
-https://github.com/KrishAleti/My-Resources/tree/main/Django_telusko
+https://github.com/KrsnaAleti/My_Resources/tree/main/Django_telusko
 
 ### This project covers the following:
 * Python - Django
